@@ -1,2 +1,3 @@
-# react-search-movie
-search movie
+```sh
+npm install react-router-dom@6
+```
